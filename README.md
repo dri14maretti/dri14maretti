@@ -15,6 +15,7 @@
 [<img align="left" alt="dri14maretti | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="dri14maretti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dri14maretti | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
+[<img align="left" alt="dri14maretti | Facebook" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]
 
 </br>
 </br>
@@ -38,3 +39,4 @@
 [twitter]: https://twitter.com/dri14maretti
 [website]: https://dri14maretti.github.io
 [facebook]: https://web.facebook.com/adriano.maretti14
+[whatsapp]: https://api.whatsapp.com/send?phone=5535988510305
