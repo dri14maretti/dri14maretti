@@ -4,11 +4,11 @@
 
 ### Somethings about me
 
-- 🔭 I’m currently working at a junior company called Asimov Jr.
-- 🌱 I’m currently learning C, C++, JavaScript some other Angular features
+- 💼 I’m currently working at a junior company called Asimov Jr.
+- 💻 I’m currently learning C, C++, JavaScript some other Angular features
 - 👯 I’m looking to collaborate on teaching people how to love programming
 - 🤔 I’m looking for help with creating and managing Caches while using Firebase in a project
-- 💬 Ask me about Math or any one of this languages I mencioned before, politics and related themes or Math related things
+- 💬 Ask me about any one of this languages I mencioned before, politics and related themes or Math related things
 - ⚡ Fun fact: I love working with tecnology and programming, but I have a secret passion for economics and politics!
 - 📖 I'm currently studying Computational Engineering at UNIFEI (Itajubá - MG)
 
