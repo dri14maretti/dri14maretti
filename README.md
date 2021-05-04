@@ -1,13 +1,16 @@
-## Hi there, I'm Adriano!
+### Hi there, I'm Adriano!
 
-## Somethings about me
+## I'm a student and Front-end developer, who wants to learn more about Back-end and Data Science
 
-- 🔭 I’m currently working on an Angular Project for my company
-- 🌱 I’m currently learning C, C++, JavaScript and more Angular
-- 👯 I’m looking to collaborate on teaching people how to love of programming
+### Somethings about me
+
+- 🔭 I’m currently working at a junior company called Asimov Jr.
+- 🌱 I’m currently learning C, C++, JavaScript some other Angular features
+- 👯 I’m looking to collaborate on teaching people how to love programming
 - 🤔 I’m looking for help with creating and managing Caches while using Firebase in a project
-- 💬 Ask me about Math or any one of this languages I mencioned before or politics
+- 💬 Ask me about Math or any one of this languages I mencioned before, politics and related themes or Math related things
 - ⚡ Fun fact: I love working with tecnology and programming, but I have a secret passion for economics and politics!
+- 📖 I'm currently studying Computational Engineering at UNIFEI (Itajubá - MG)
 
 ### Conect with me!
 
