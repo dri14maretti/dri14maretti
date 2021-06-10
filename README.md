@@ -1,21 +1,18 @@
 ### Hi there, I'm Adriano!
 
-## I'm a student and Front-end developer, who wants to learn more about Back-end and Data Science
+## I'm a student and Front-end developer, who wants to learn more about Back-end, Data Science and Machine Learning.
 
 ### Somethings about me
 
-- 💼 I’m currently working at a junior company called Asimov Jr.
-- 💻 I’m currently learning C, C++, JavaScript some other Angular features
-- 👯 I’m looking to collaborate on teaching people how to love programming
-- 🤔 I’m looking for help with creating and managing Caches while using Firebase in a project
-- 💬 Ask me about any one of this languages I mencioned before, politics and related themes or Math related things
-- ⚡ Fun fact: I love working with tecnology and programming, but I have a secret passion for economics and politics!
-- 📖 I'm currently studying Computational Engineering at UNIFEI (Itajubá - MG)
+- I’m currently working at a junior company called Asimov Jr as a Front-end developer.
+- I’m currently learning C, C++, JavaScript, Phyton some other Angular features
+- I’m looking to collaborate on teaching people how to love programming
+- I'm currently studying Computational Engineering at UNIFEI (Itajubá - MG)
 
 ### Conect with me!
 
 [<img align="left" alt="dri14maretti.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="dri14maretti | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="dri14maretti | Instagram" width="22px" src="https://www.flaticon.com/br/icone-gratis/instagram_174855" />][instagram]
 [<img align="left" alt="dri14maretti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dri14maretti | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 [<img align="left" alt="dri14maretti | Facebook" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]
