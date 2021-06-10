@@ -39,6 +39,7 @@
 ![Github](https://img.shields.io/badge/github-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=black)
 
+![VsCode](https://img.shields.io/badge/vscode%20-blue.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 
