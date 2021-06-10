@@ -45,7 +45,7 @@
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ![C](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=cpp&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=Cpp&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 
