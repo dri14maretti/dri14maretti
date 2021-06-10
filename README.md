@@ -37,7 +37,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=black)
 
 
 
