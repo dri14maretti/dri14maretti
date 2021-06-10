@@ -12,7 +12,9 @@
 ### Conect with me!
 
 [<img align="left" alt="dri14maretti.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--
 [<img align="left" alt="dri14maretti | Instagram" width="22px" src="https://www.flaticon.com/br/icone-gratis/instagram_174855" />][instagram]
+-->
 [<img align="left" alt="dri14maretti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dri14maretti | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 [<img align="left" alt="dri14maretti | Facebook" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]
@@ -40,7 +42,9 @@
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%007ACC)
 
 
 [instagram]: https://instagram.com/dri14maretti
