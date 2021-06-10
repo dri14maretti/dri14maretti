@@ -33,6 +33,7 @@
 ![C](https://img.shields.io/badge/%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/++%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![TF](https://img.shields.io/badge/tensorflow%20-%23E34F26.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white)
