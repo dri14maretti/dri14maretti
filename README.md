@@ -11,7 +11,7 @@
 
 ### Conect with me!
 
-![Instagram](https://img.shields.io/badge/Instagram%20-%23E34F26.svg?&style=for-the-badge&logo=instagram&logoColor=black)
+[<img src="https://img.shields.io/badge/Instagram%20-%23E34F26.svg?&style=for-the-badge&logo=instagram&logoColor=black">[instagram]
 [<img align="left" alt="dri14maretti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dri14maretti | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 [<img align="left" alt="dri14maretti | Facebook" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][whatsapp]
