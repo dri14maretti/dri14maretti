@@ -22,6 +22,7 @@
 ### Languages and Tools:
 
 ![Javascript](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js%20-greensvg?&style=for-the-badge&logo=vue.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript%20-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular%20-brown.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
