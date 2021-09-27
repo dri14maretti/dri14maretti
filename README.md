@@ -27,6 +27,7 @@
 ![Angular](https://img.shields.io/badge/angular%20-brown.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest%20-red.svg?&style=for-the-badge&logo=jest&logoColor=white)
 
 ![C](https://img.shields.io/badge/%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
