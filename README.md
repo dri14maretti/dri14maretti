@@ -21,14 +21,15 @@
 
 ### Languages and Tools:
 
-![Javascript](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js%20-greensvg?&style=for-the-badge&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js%20-008000?&style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/typescript%20-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular%20-brown.svg?&style=for-the-badge&logo=angular&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest%20-red.svg?&style=for-the-badge&logo=jest&logoColor=white)
+
+![Javascript](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/typescript%20-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest%20-red.svg?&style=for-the-badge&logo=jest&logoColor=white)
 
 ![C](https://img.shields.io/badge/%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
@@ -37,6 +38,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab-black.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=black)
 
 ![VsCode](https://img.shields.io/badge/vscode%20-blue.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
