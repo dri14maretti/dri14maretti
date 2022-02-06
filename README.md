@@ -26,6 +26,7 @@
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js%20-008000?&style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular%20-brown.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest%20-red.svg?&style=for-the-badge&logo=jest&logoColor=white)
+![Ionic](https://img.shields.io/badge/ionic%20-%231572B6.svg?&style=for-the-badge&logo=ionic&logoColor=white)
 
 ![Javascript](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/typescript%20-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white)
