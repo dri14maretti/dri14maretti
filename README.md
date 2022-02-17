@@ -5,7 +5,7 @@
 ### Somethings about me
 
 - I’m currently working at a fintech called Mova as a Front-end developer
-- I’m currently working at a junior company called Asimov Jr as a Front-end developer.
+- I’m currently working at a junior company called Asimov Jr as the Manager of Mobile Development.
 - I’m currently learning Java, more JavaScript, Phyton and improving my Jest knowledge
 - I’m looking to collaborate on teaching people how to love programming
 - I'm currently studying Computational Engineering at UNIFEI (Itajubá - MG)
