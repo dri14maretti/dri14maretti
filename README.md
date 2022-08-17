@@ -1,14 +1,13 @@
 ### Hi there, I'm Adriano!
 
-## I'm a student and Front-end developer, who wants to learn more about Back-end, Data Science and Machine Learning.
+## I'm a student and Full Stack developer, who wants to learn more about Back-end, Data Science and Machine Learning.
 
 ### Somethings about me
 
-- I’m currently working at a fintech called Mova as a Front-end developer
-- I’m currently working at a junior company called Asimov Jr as the Manager of Mobile Development.
-- I’m currently learning Java, more JavaScript, Phyton and improving my Jest knowledge
+- I’m currently working at company called FitCard as a Back-end developer
+- I’m currently learning C# and the .NET Framework
 - I’m looking to collaborate on teaching people how to love programming
-- I'm currently studying Computational Engineering at UNIFEI (Itajubá - MG)
+- I'm currently studying at UNIFEI (Itajubá - MG)
 
 ### Conect with me!
 
