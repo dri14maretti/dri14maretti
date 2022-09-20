@@ -1,6 +1,6 @@
 ### Hi there, I'm Adriano!
 
-## I'm a student and Full Stack developer, who wants to learn more about Back-end, Data Science and Machine Learning.
+## I'm a student and Full Stack developer, who wants to learn more about Cloud computing and machine learning.
 
 ### Somethings about me
 
