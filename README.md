@@ -21,6 +21,12 @@
 
 ### Languages and Tools:
 
+#### Back-end
+![C#](https://img.shields.io/badge/%20-blue.svg?&style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20-blue.svg?&style=for-the-badge&logo=dotnet&logoColor=white)
+![aws](https://img.shields.io/badge/aws%20-yellow.svg?&style=for-the-badge&logo=amazon&logoColor=white)
+
+#### Front-end
 ![Vue.js](https://img.shields.io/badge/Vue.js%20-greensvg?&style=for-the-badge&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js%20-008000?&style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular%20-brown.svg?&style=for-the-badge&logo=angular&logoColor=white)
@@ -32,6 +38,7 @@
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
+#### Other languages and tools
 ![C](https://img.shields.io/badge/%20-brown.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++%20-brown.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
