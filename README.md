@@ -4,12 +4,12 @@
 
 ### Somethings about me
 
-- I’m currently working at company called FitCard as a Back-end developer
-- I’m currently learning C# and the .NET Framework
-- I’m looking to collaborate on teaching people how to love programming
+- I’m currently working at a company called FitCard as a Full-Stack developer
+- I’m currently learning C# and more and more about Software Architecture (Hexagonal, mainly)
+- I’m looking forward to collaborating on teaching people how to love programming
 - I'm currently studying at UNIFEI (Itajubá - MG)
 
-### Conect with me!
+### Connect with me!
 
 [<img align="left" alt="dri14maretti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="dri14maretti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
