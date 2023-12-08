@@ -57,7 +57,7 @@
 
 
 
-[instagram]: https://instagram.com/dri14maretti
+[instagram]: https://instagram.com/adrianomaretti
 [twitter]: https://twitter.com/dri14maretti
 [website]: https://dri14maretti.github.io
 [facebook]: https://web.facebook.com/adriano.maretti14
