@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 #### Back-end
-![C#](https://img.shields.io/badge/%20-blue.svg?&style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/Csharp%20-blue.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![aws](https://img.shields.io/badge/aws%20-yellow.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SQL-Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
