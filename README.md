@@ -5,7 +5,7 @@
 ### Somethings about me
 
 - I’m currently working at a company called FitCard as a Full-Stack developer
-- I’m currently learning C# and more and more about Software Architecture (Hexagonal, mainly)
+- I’m currently learning C# and more and more about Software Architecture (Clean Architecture, mainly)
 - I’m looking forward to collaborating on teaching people how to love programming
 - I'm currently studying at UNIFEI (Itajubá - MG)
 
